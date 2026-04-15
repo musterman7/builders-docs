@@ -3,7 +3,7 @@
 ## Step-by-Step Guide
 
 ### 1. Connect Wallet
-Visit [builders.fun](https://builders.fun) and connect your wallet (MetaMask, OKX Wallet, Trust Wallet, or any WalletConnect-compatible wallet).
+Visit [builders.meme](https://builders.meme) and connect your wallet (MetaMask, OKX Wallet, Trust Wallet, or any WalletConnect-compatible wallet).
 
 ### 2. Click "Launch Token"
 Navigate to the **Launch Token** page from the top menu.

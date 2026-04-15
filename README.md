@@ -15,14 +15,14 @@ Builders.meme is a decentralized token launchpad on BNB Smart Chain. Anyone can 
 
 ## Quick Links
 
-- **App**: [builders.fun](https://builders.fun)
+- **App**: [builders.meme](https://builders.meme)
 - **Smart Contracts**: [Verified on BscScan](https://bscscan.com/address/0xE08E57a7333313b0705b53Ab1f43159bBA8E1939#code)
 - **Twitter**: Coming soon
 - **Telegram**: Coming soon
 
 ## Getting Started
 
-1. Connect your wallet at [builders.fun](https://builders.fun)
+1. Connect your wallet at [builders.meme](https://builders.meme)
 2. Click **Launch Token**
 3. Fill in token details, set your tokenomics
 4. Deploy — your token is live and tradeable instantly
