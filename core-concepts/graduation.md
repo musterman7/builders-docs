@@ -20,7 +20,6 @@ Each base token has multiple graduation tiers, determining how much needs to be 
 
 | Tier | BNB | USDT/USDC/USD1/U | CAKE | FIST |
 |------|-----|-------------------|------|------|
-| Test | 0.032 | 20 | 8 | 20 |
 | Tier 1 | 6 | 4,000 | 3,000 | 8,000 |
 | Tier 2 | 10 | 8,000 | 6,000 | 16,000 |
 | Tier 3 | 18 | 12,000 | 10,000 | 24,000 |

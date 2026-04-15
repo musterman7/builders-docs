@@ -3,7 +3,7 @@
 ## Step-by-Step Guide
 
 ### 1. Connect Wallet
-Visit [ai444z.fun](https://ai444z.fun) and connect your wallet (MetaMask, OKX Wallet, Trust Wallet, or any WalletConnect-compatible wallet).
+Visit [builders.fun](https://builders.fun) and connect your wallet (MetaMask, OKX Wallet, Trust Wallet, or any WalletConnect-compatible wallet).
 
 ### 2. Click "Launch Token"
 Navigate to the **Launch Token** page from the top menu.
@@ -25,13 +25,13 @@ Select which token your token will be paired with:
 
 | Pair | Graduation Tiers |
 |------|-----------------|
-| BNB | 0.032 / 6 / 10 / 18 BNB |
-| CAKE | 8 / 3,000 / 6,000 / 10,000 CAKE |
-| USDT | 20 / 4,000 / 8,000 / 12,000 USDT |
-| USDC | 20 / 4,000 / 8,000 / 12,000 USDC |
-| USD1 | 20 / 4,000 / 8,000 / 12,000 USD1 |
-| U | 20 / 4,000 / 8,000 / 12,000 U |
-| FIST | 20 / 8,000 / 16,000 / 24,000 FIST |
+| BNB | 6 / 10 / 18 BNB |
+| CAKE | 3,000 / 6,000 / 10,000 CAKE |
+| USDT | 4,000 / 8,000 / 12,000 USDT |
+| USDC | 4,000 / 8,000 / 12,000 USDC |
+| USD1 | 4,000 / 8,000 / 12,000 USD1 |
+| U | 4,000 / 8,000 / 12,000 U |
+| FIST | 8,000 / 16,000 / 24,000 FIST |
 
 The first tier (smallest amount) is for testing only.
 

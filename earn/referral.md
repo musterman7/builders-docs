@@ -5,7 +5,7 @@ Earn **10% of trading fees** from users who trade using your referral link.
 ## How It Works
 
 1. **Get Your Code** — Visit your Profile page and find your unique referral code
-2. **Share Your Link** — Share your referral link: `ai444z.fun/#/?ref=YOUR_CODE`
+2. **Share Your Link** — Share your referral link: `builders.fun/#/?ref=YOUR_CODE`
 3. **Earn Rewards** — When someone clicks your link and trades, you earn 10% of their trading fees automatically
 
 ## Reward Details
